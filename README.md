@@ -1,3 +1,4 @@
+<img src="https://nintendocafe.com/post/715967965276831744/mario-art-by-pixel-jeff" alt="Description of GIF">
 <h1 align="center">Hi 👋, I'm Melbin Mathew</h1>
 <h3 align="center">A Passionate Data Scientist From India</h3>
 
