@@ -1,83 +1,202 @@
+<div align="center">
+  
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro)
-<h1 align="center">Hi 👋, I'm Melbin Mathew</h1>
-<h3 align="center">AI / ML Engineer From India</h3>
 
-- 💬 Ask me about **Data Science, Machine Learning, Data Analysis, Power BI, Tableau**
+</div>
 
-- 📫 How to reach me **melbinm32@gmail.com**
+# <div align="center"> **Hi 👋, I'm Melbin Mathew** an AI / ML Engineer Engineer</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/melbin-mathew-09385a25a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/melbinmathew32" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_melbin_mathew" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/melbinm32/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🤖+AI%2FML+Engineer;🧠+Data+Scientist;☁️+MLOps+Enthusiast;🐍+Python+Developer;🔥+Deep+Learning+Specialist;🌟+Turning+Data+into+Intelligence)](https://git.io/typing-svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-  </a>
-</p>
+</div>
 
-<table>
-  <tr>
-    <td><img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="code animation"  /></td>
-  </tr>
-</table>
+---
 
 
+<div align="center">
+
+**🎯 Passionate AI/ML Engineer & Data Scientist from India 🇮🇳**
+
+**Transforming Raw Data into Intelligent Solutions**
+
+</div>
+
+```yaml
+👨‍💻 Role: AI/ML Engineer 
+📊 Specialization: AI/ML Engineering, Data Science, MLOps
+
+🔥 CORE EXPERTISE:
+  ├── Artificial Intelligence & Machine Learning
+  ├── Computer Vision & Natural Language Processing
+  ├── Deep Learning & Neural Networks
+  ├── MLOps Pipeline Development
+  └── Data Analysis & Visualization
+
+🚀 CURRENTLY MASTERING:
+  ├── Large Language Models (LLMs)
+  ├── Advanced MLOps Practices
+  └── Real-time ML Systems
+
+
+```
+
+---
+
+<details open>
+<summary><strong>🔥 Programming Languages</strong></summary><br>
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>🤖 AI / Machine Learning Frameworks</strong></summary><br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>📊 Data Science & Visualization</strong></summary><br>
+
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>🗄️ Databases</strong></summary><br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>☁️ MLOps & Cloud Platforms</strong></summary><br>
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>🧰 Development Tools</strong></summary><br>
+
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>📊 Business Intelligence Tools</strong></summary><br>
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+</details>
+
+---
+
+## <div align="center">🎯 **CURRENT FOCUS & INNOVATION** 🎯</div>
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🚀 INNOVATION PIPELINE] --> B[🤖 Large Language Models]
+    A --> C[🔄 Advanced MLOps]
+    A --> D[☁️ Cloud AI Solutions]
+    A --> E[📊 Real-time Analytics]
+    A --> F[👁️ Computer Vision]
+    
+    B --> B1[🎯 LLM Fine-tuning]
+    B --> B2[🔍 RAG Applications]
+    B --> B3[💬 Conversational AI]
+    
+    C --> C1[🚀 CI/CD for ML]
+    C --> C2[📊 Model Monitoring]
+    C --> C3[⚡ Auto-scaling Systems]
+    
+    D --> D1[🌐 GCP AI Platform]
+    D --> D2[☁️ AWS SageMaker]
+    D --> D3[🔧 Serverless ML]
+    
+    E --> E1[⚡ Stream Processing]
+    E --> E2[🔮 Predictive Analytics]
+    E --> E3[📈 Dashboard Automation]
+    
+    F --> F1[🎯 Object Detection]
+    F --> F2[✂️ Image Segmentation]
+    F --> F3[📱 Mobile Vision]
+    
+    style A fill:#FF6B6B,stroke:#fff,stroke-width:3px,color:#fff
+    style B fill:#4ECDC4,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#45B7D1,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#96CEB4,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#FECA57,stroke:#fff,stroke-width:2px,color:#fff
+    style F fill:#FF9FF3,stroke:#fff,stroke-width:2px,color:#fff
+```
+
+</div>
+
+---
+
+## <div align="center">🌟 **FEATURED PROJECTS & ACHIEVEMENTS** 🌟</div>
+
+<div align="center">
+
+| 🚀 **PROJECT** | 🛠️ **TECH STACK** | ⭐ **STATUS** | 🎯 **IMPACT** |
+|----------------|-------------------|---------------|----------------|
+| 🤖 **Advanced LLM Fine-tuning Pipeline** | Python, Transformers, MLflow, CUDA | 🔥 **ACTIVE** | Revolutionizing AI Training |
+| 📊 **Real-time Analytics Engine** | Streamlit, Plotly, PostgreSQL, Redis | ✅ **DEPLOYED** | 10x Faster Insights |
+| 🧠 **Computer Vision Intelligence** | OpenCV, TensorFlow, Flask, Docker | 🚧 **ENHANCING** | Next-Gen Vision AI |
+| ☁️ **Enterprise MLOps Platform** | Kubernetes, GCP, Terraform, Airflow | 📋 **ARCHITECTING** | Scalable AI Infrastructure |
+| 🔮 **Predictive Analytics Suite** | Scikit-learn, XGBoost, FastAPI | 🎯 **OPTIMIZING** | Smart Business Decisions |
+
+</div>
+
+---
+
+## <div align="center">🌐 **CONNECT & COLLABORATE** 🌐</div>
+
+<div align="center">
+
+### **Let's Build the Future of AI Together!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melbin-mathew-09385a25a/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/melbinmathew32)
+[![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Melbi)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@melbinm32)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/melbinm32/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melbinm32@gmail.com)
+
+</div>
+
+---
+<div align="center">
+
+
+**⭐ Star repositories that inspire you | 🤝 Collaborate on groundbreaking projects | 🚀 Let's shape the future of AI together!**
+
+
+</div>
