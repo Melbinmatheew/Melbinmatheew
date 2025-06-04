@@ -4,7 +4,7 @@
 
 </div>
 
-# <div align="center"> **Hi 👋, I'm Melbin Mathew** an AI / ML Engineer Engineer</div>
+# <div align="center"> **Hi 👋, I'm Melbin Mathew**</div>
 
 <div align="center">
   
@@ -12,14 +12,6 @@
 
 </div>
 
----
-
-
-<div align="center">
-
-**🎯 Passionate AI/ML Engineer & Data Scientist from India 🇮🇳**
-
-**Transforming Raw Data into Intelligent Solutions**
 
 </div>
 
