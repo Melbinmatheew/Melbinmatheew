@@ -109,65 +109,7 @@
 
 ---
 
-## <div align="center">🎯 **CURRENT FOCUS & INNOVATION** 🎯</div>
 
-<div align="center">
-
-```mermaid
-graph TD
-    A[🚀 INNOVATION PIPELINE] --> B[🤖 Large Language Models]
-    A --> C[🔄 Advanced MLOps]
-    A --> D[☁️ Cloud AI Solutions]
-    A --> E[📊 Real-time Analytics]
-    A --> F[👁️ Computer Vision]
-    
-    B --> B1[🎯 LLM Fine-tuning]
-    B --> B2[🔍 RAG Applications]
-    B --> B3[💬 Conversational AI]
-    
-    C --> C1[🚀 CI/CD for ML]
-    C --> C2[📊 Model Monitoring]
-    C --> C3[⚡ Auto-scaling Systems]
-    
-    D --> D1[🌐 GCP AI Platform]
-    D --> D2[☁️ AWS SageMaker]
-    D --> D3[🔧 Serverless ML]
-    
-    E --> E1[⚡ Stream Processing]
-    E --> E2[🔮 Predictive Analytics]
-    E --> E3[📈 Dashboard Automation]
-    
-    F --> F1[🎯 Object Detection]
-    F --> F2[✂️ Image Segmentation]
-    F --> F3[📱 Mobile Vision]
-    
-    style A fill:#FF6B6B,stroke:#fff,stroke-width:3px,color:#fff
-    style B fill:#4ECDC4,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#45B7D1,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#96CEB4,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#FECA57,stroke:#fff,stroke-width:2px,color:#fff
-    style F fill:#FF9FF3,stroke:#fff,stroke-width:2px,color:#fff
-```
-
-</div>
-
----
-
-## <div align="center">🌟 **FEATURED PROJECTS & ACHIEVEMENTS** 🌟</div>
-
-<div align="center">
-
-| 🚀 **PROJECT** | 🛠️ **TECH STACK** | ⭐ **STATUS** | 🎯 **IMPACT** |
-|----------------|-------------------|---------------|----------------|
-| 🤖 **Advanced LLM Fine-tuning Pipeline** | Python, Transformers, MLflow, CUDA | 🔥 **ACTIVE** | Revolutionizing AI Training |
-| 📊 **Real-time Analytics Engine** | Streamlit, Plotly, PostgreSQL, Redis | ✅ **DEPLOYED** | 10x Faster Insights |
-| 🧠 **Computer Vision Intelligence** | OpenCV, TensorFlow, Flask, Docker | 🚧 **ENHANCING** | Next-Gen Vision AI |
-| ☁️ **Enterprise MLOps Platform** | Kubernetes, GCP, Terraform, Airflow | 📋 **ARCHITECTING** | Scalable AI Infrastructure |
-| 🔮 **Predictive Analytics Suite** | Scikit-learn, XGBoost, FastAPI | 🎯 **OPTIMIZING** | Smart Business Decisions |
-
-</div>
-
----
 
 ## <div align="center">🌐 **CONNECT & COLLABORATE** 🌐</div>
 
